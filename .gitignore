@@ -1,0 +1,6 @@
+/.qodo/
+/.terraform/
+/terraform.tfstate
+/terraform.tfstate.1746946161.backup
+/terraform.tfstate.1746946165.backup
+/terraform.tfstate.backup
